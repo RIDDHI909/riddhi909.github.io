@@ -26,6 +26,7 @@ some of my cool projects are as follows
 # Leed - Relaince township 
 
 
+Check my resume at [Here]
 
 ## Contact : I can be reached at riddhidave.ca@gmail.com
 
