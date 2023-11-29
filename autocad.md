@@ -1,12 +1,17 @@
 ## This is my autocad work 
 
-<img style="border-radius: 100px; float: left; width: 100px; margin: 100px;" src="resoruces /Elev 1_page-0001.jpg">
-
-<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" src="resoruces/SHEET 5_page-0001.jpgg">
+Look at this 
 
 
-<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" src="resoruces/SHEET 8_page-0001.jpg">
+<img src="resoruces /Elev 1_page-0001.jpg"
+     width="400" 
+     height="500" />
 
 
-<img style="border-radius: 8px; float: left; width: 100px; margin: 8px;" src="resoruces/Toilet detail_page-0001.jpg">
+ Also this 
+
+ <img src="resoruces/SHEET 8_page-0001.jpg
+     width="400" 
+     height="500" />
+
 
