@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+
+@import "{{ jekyll-theme-minimal.theme }}";
 <!DOCTYPE html>
 <html lang="en">
 <head>
