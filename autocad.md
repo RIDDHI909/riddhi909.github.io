@@ -3,7 +3,7 @@
 Look at this 
 
 
-<img src="resoruces /Elev 1_page-0001.jpg"
+<img src="resoruces/section 2_page-0001.jpg"
      width="400" 
      height="500" />
 
