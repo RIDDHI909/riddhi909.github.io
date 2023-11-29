@@ -10,7 +10,7 @@ Look at this
 
  Also this 
 
- <img src="resoruces/SHEET 8_page-0001.jpg
+ <img src= "resoruces/section 1_page-0001.jpg"
      width="400" 
      height="500" />
 
